@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Setup](setup.md)
-   * [Packages](setup/packages.md)
+   * [Installed Packages](setup/packages.md)
 
