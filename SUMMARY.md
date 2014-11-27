@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [Setup](setup.md)
    * [Installed Packages](setup/packages.md)
-   * Configuration files
+   * [Configuration files](setup/configuration.md)
 
